@@ -1,0 +1,359 @@
+[
+	{
+		"link": "https://platform.stratascratch.com/data-projects/treadmill-buyer-profile",
+		"company": "Aerofit",
+		"difficulty": "Easy",
+		"category": "Business Analysis",
+		"title": "Treadmill Buyer Profile"
+	},
+	{
+		"link": "https://platform.stratascratch.com/data-projects/demand-for-electric-bicycles",
+		"company": "Yulu",
+		"difficulty": "Easy",
+		"category": "Business Analysis",
+		"title": "Demand for Electric Bicycles"
+	},
+	{
+		"link": "https://platform.stratascratch.com/data-projects/data-transformation",
+		"company": "Chama",
+		"difficulty": "Easy",
+		"category": "Data Engineering",
+		"title": "Data Transformation"
+	},
+	{
+		"link": "https://platform.stratascratch.com/data-projects/website-traffic-analysis",
+		"company": "Linkfire",
+		"difficulty": "Easy",
+		"category": "Business Analysis",
+		"title": "Website Traffic Analysis"
+	},
+	{
+		"link": "https://platform.stratascratch.com/data-projects/hospitalization-hypothesis-testing",
+		"company": "Apollo Hospitals",
+		"difficulty": "Easy",
+		"category": "Data Exploration",
+		"title": "Hospitalization Hypothesis Testing"
+	},
+	{
+		"link": "https://platform.stratascratch.com/data-projects/student-performance-analysis",
+		"company": "Pearson",
+		"difficulty": "Easy",
+		"category": "Business Analysis",
+		"title": "Student Performance Analysis"
+	},
+	{
+		"link": "https://platform.stratascratch.com/data-projects/image-pencil-sketch",
+		"company": "LGM",
+		"difficulty": "Easy",
+		"category": "Data Engineering",
+		"title": "Image to Pencil Sketch"
+	},
+	{
+		"link": "https://platform.stratascratch.com/data-projects/response-marketing-campaign",
+		"company": "SparkCognition",
+		"difficulty": "Easy",
+		"category": "Classification",
+		"title": "Response to Marketing Campaign"
+	},
+	{
+		"link": "https://platform.stratascratch.com/data-projects/agricultural-data-analysis",
+		"company": "State Farm",
+		"difficulty": "Easy",
+		"category": "Business Analysis",
+		"title": "Agricultural Data Analysis"
+	},
+	{
+		"link": "https://platform.stratascratch.com/data-projects/predicting-price",
+		"company": "Haensel AMS",
+		"difficulty": "Easy",
+		"category": "Regression",
+		"title": "Predicting Price"
+	},
+	{
+		"link": "https://platform.stratascratch.com/data-projects/air-pollution-analysis",
+		"company": "WHO",
+		"difficulty": "Easy",
+		"category": "Data Exploration",
+		"title": "Air Pollution Analysis"
+	},
+	{
+		"link": "https://platform.stratascratch.com/data-projects/image-files-processing",
+		"company": "Amazon",
+		"difficulty": "Easy",
+		"category": "Data Engineering",
+		"title": "Image Files Processing"
+	},
+	{
+		"link": "https://platform.stratascratch.com/data-projects/sales-data-analysis",
+		"company": "23andMe",
+		"difficulty": "Easy",
+		"category": "Business Analysis",
+		"title": "Sales Data Analysis"
+	},
+	{
+		"link": "https://platform.stratascratch.com/data-projects/beer-data-analysis",
+		"company": "Evolent Health",
+		"difficulty": "Easy",
+		"category": "Business Analysis",
+		"title": "Beer Data Analysis"
+	},
+	{
+		"link": "https://platform.stratascratch.com/data-projects/partner-business-modeling",
+		"company": "Uber",
+		"difficulty": "Easy",
+		"category": "Business Analysis",
+		"title": "Partner Business Modeling"
+	},
+	{
+		"link": "https://platform.stratascratch.com/data-projects/insights-city-supply-and-demand-data",
+		"company": "Uber",
+		"difficulty": "Easy",
+		"category": "Business Analysis",
+		"title": "Insights from City Supply and Demand Data"
+	},
+	{
+		"link": "https://platform.stratascratch.com/data-projects/new-shows-and-movies",
+		"company": "Netflix",
+		"difficulty": "Easy",
+		"category": "Data Exploration",
+		"title": "New Shows and Movies"
+	},
+	{
+		"link": "https://platform.stratascratch.com/data-projects/driver-lifetime-value",
+		"company": "Lyft",
+		"difficulty": "Easy",
+		"category": "Clustering",
+		"title": "Driver Lifetime Value"
+	},
+	{
+		"link": "https://platform.stratascratch.com/data-projects/baby-names",
+		"company": "Capital One",
+		"difficulty": "Easy",
+		"category": "Data Exploration",
+		"title": "Baby Names"
+	},
+	{
+		"link": "https://platform.stratascratch.com/data-projects/model-building-synthetic-dataset",
+		"company": "Capital One",
+		"difficulty": "Easy",
+		"category": "Regression",
+		"title": "Model Building on a Synthetic Dataset"
+	},
+	{
+		"link": "https://platform.stratascratch.com/data-projects/expenses-and-income-prediction",
+		"company": "N26",
+		"difficulty": "Medium",
+		"category": "Regression",
+		"title": "Expenses and Income Prediction"
+	},
+	{
+		"link": "https://platform.stratascratch.com/data-projects/customer-churn-prediction",
+		"company": "Sony Research",
+		"difficulty": "Medium",
+		"category": "Classification",
+		"title": "Customer Churn Prediction"
+	},
+	{
+		"link": "https://platform.stratascratch.com/data-projects/black-friday-purchases",
+		"company": "Walmart",
+		"difficulty": "Medium",
+		"category": "Business Analysis",
+		"title": "Black Friday Purchases"
+	},
+	{
+		"link": "https://platform.stratascratch.com/data-projects/crime-data-analysis",
+		"company": "City of Montreal",
+		"difficulty": "Medium",
+		"category": "Data Exploration",
+		"title": "Crime Data Analysis"
+	},
+	{
+		"link": "https://platform.stratascratch.com/data-projects/arbitrage-algorithm",
+		"company": "United Ideas",
+		"difficulty": "Medium",
+		"category": "Business Analysis",
+		"title": "Arbitrage Algorithm"
+	},
+	{
+		"link": "https://platform.stratascratch.com/data-projects/will-new-drivers-start-driving",
+		"company": "Uber",
+		"difficulty": "Medium",
+		"category": "Classification",
+		"title": "Will New Drivers Start Driving"
+	},
+	{
+		"link": "https://platform.stratascratch.com/data-projects/delivery-market-modeling",
+		"company": "Delhivery",
+		"difficulty": "Medium",
+		"category": "Business Analysis",
+		"title": "Delivery Market Modeling"
+	},
+	{
+		"link": "https://platform.stratascratch.com/data-projects/rotten-tomatoes-movies-rating-prediction",
+		"company": "Meta",
+		"difficulty": "Medium",
+		"category": "Classification",
+		"title": "Rotten Tomatoes Movies Rating Prediction"
+	},
+	{
+		"link": "https://platform.stratascratch.com/data-projects/marketing-campaign-results",
+		"company": "Freedom Debt Relief",
+		"difficulty": "Medium",
+		"category": "Business Analysis",
+		"title": "Marketing Campaign Results"
+	},
+	{
+		"link": "https://platform.stratascratch.com/data-projects/insights-failed-orders",
+		"company": "Gett",
+		"difficulty": "Medium",
+		"category": "Business Analysis",
+		"title": "Insights from Failed Orders"
+	},
+	{
+		"link": "https://platform.stratascratch.com/data-projects/delivery-duration-prediction",
+		"company": "DoorDash",
+		"difficulty": "Medium",
+		"category": "Regression",
+		"title": "Delivery Duration Prediction"
+	},
+	{
+		"link": "https://platform.stratascratch.com/data-projects/outliers-detection",
+		"company": "Physician Partners",
+		"difficulty": "Medium",
+		"category": "Data Engineering",
+		"title": "Outliers Detection"
+	},
+	{
+		"link": "https://platform.stratascratch.com/data-projects/fraudsters-detection",
+		"company": "Revolut",
+		"difficulty": "Medium",
+		"category": "Classification",
+		"title": "Fraudsters Detection"
+	},
+	{
+		"link": "https://platform.stratascratch.com/data-projects/nyc-taxi-data",
+		"company": "Capital One",
+		"difficulty": "Medium",
+		"category": "Business Analysis",
+		"title": "NYC Taxi Data"
+	},
+	{
+		"link": "https://platform.stratascratch.com/data-projects/market-analysis-dublin",
+		"company": "Airbnb",
+		"difficulty": "Medium",
+		"category": "Business Analysis",
+		"title": "Market Analysis in Dublin"
+	},
+	{
+		"link": "https://platform.stratascratch.com/data-projects/terrorism-hotspots",
+		"company": "LGM",
+		"difficulty": "Medium",
+		"category": "Data Exploration",
+		"title": "Terrorism Hotspots"
+	},
+	{
+		"link": "https://platform.stratascratch.com/data-projects/which-customers-target",
+		"company": "Starbucks",
+		"difficulty": "Medium",
+		"category": "Business Analysis",
+		"title": "Which Customers to Target"
+	},
+	{
+		"link": "https://platform.stratascratch.com/data-projects/medical-certification-changes",
+		"company": "Match",
+		"difficulty": "Medium",
+		"category": "Business Analysis",
+		"title": "Medical Certification Changes"
+	},
+	{
+		"link": "https://platform.stratascratch.com/data-projects/retention-strategies",
+		"company": "Telco",
+		"difficulty": "Medium",
+		"category": "Classification",
+		"title": "Retention Strategies"
+	},
+	{
+		"link": "https://platform.stratascratch.com/data-projects/predicting-emojis-tweets",
+		"company": "Emogi",
+		"difficulty": "Hard",
+		"category": "NLP",
+		"title": "Predicting Emojis in Tweets"
+	},
+	{
+		"link": "https://platform.stratascratch.com/data-projects/next-word-prediction",
+		"company": "LGM",
+		"difficulty": "Hard",
+		"category": "NLP",
+		"title": "Next Word Prediction"
+	},
+	{
+		"link": "https://platform.stratascratch.com/data-projects/recognizing-names",
+		"company": "The Saas Co.",
+		"difficulty": "Hard",
+		"category": "NLP",
+		"title": "Recognizing Names"
+	},
+	{
+		"link": "https://platform.stratascratch.com/data-projects/prediction-stock-price-direction",
+		"company": "Neurotrade",
+		"difficulty": "Hard",
+		"category": "Classification",
+		"title": "Prediction of Stock Price Direction"
+	},
+	{
+		"link": "https://platform.stratascratch.com/data-projects/stocks-price-analysis",
+		"company": "RedCarpetUp",
+		"difficulty": "Hard",
+		"category": "Regression",
+		"title": "Stocks Price Analysis"
+	},
+	{
+		"link": "https://platform.stratascratch.com/data-projects/chatbot-responses",
+		"company": "Spectrm",
+		"difficulty": "Hard",
+		"category": "NLP",
+		"title": "Chatbot Responses"
+	},
+	{
+		"link": "https://platform.stratascratch.com/data-projects/laptop-price-prediction",
+		"company": "Allegro",
+		"difficulty": "Hard",
+		"category": "Regression",
+		"title": "Laptop Price Prediction"
+	},
+	{
+		"link": "https://platform.stratascratch.com/data-projects/property-click-prediction",
+		"company": "NoBroker",
+		"difficulty": "Hard",
+		"category": "Regression",
+		"title": "Property Click Prediction"
+	},
+	{
+		"link": "https://platform.stratascratch.com/data-projects/voice-recordings-analysis",
+		"company": "Sandvik",
+		"difficulty": "Hard",
+		"category": "Classification",
+		"title": "Voice Recordings Analysis"
+	},
+	{
+		"link": "https://platform.stratascratch.com/data-projects/keyword-detection-websites",
+		"company": "PeakData",
+		"difficulty": "Hard",
+		"category": "NLP",
+		"title": "Keyword Detection on Websites"
+	},
+	{
+		"link": "https://platform.stratascratch.com/data-projects/modelling-churn-energy-company",
+		"company": "BCG Gamma",
+		"difficulty": "Hard",
+		"category": "Classification",
+		"title": "Modelling Churn in Energy Company"
+	},
+	{
+		"link": "https://platform.stratascratch.com/data-projects/flagging-loans",
+		"company": "Mokka",
+		"difficulty": "Hard",
+		"category": "Classification",
+		"title": "Flagging Loans"
+	}
+]
